@@ -1,0 +1,8 @@
+.produto-container{
+    border: 2px solid green;
+    border-radius: 3px;
+    background-color: darkseagreen;
+    box-shadow: 0 0 10px black;
+    margin: 7.5px;
+    width: 400px;
+}

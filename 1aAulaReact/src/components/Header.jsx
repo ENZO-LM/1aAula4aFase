@@ -9,9 +9,8 @@ function Header() {
   return (
     <div className="header-container">
       <img className='logoP' src='./images/logoP.png' alt='Logo Pequeno'/>
-      <h1
-      
-      >Farmácia React</h1>
+      <logo/>
+      <h1>Farmácia React</h1>
       <img className='logoP' src='./images/logoP.png' alt='Logo Pequeno'/>
       {/* <MarioKartTour style={iconBig}/> */}
     </div>
