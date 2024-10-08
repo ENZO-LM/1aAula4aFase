@@ -27,3 +27,46 @@ p{
     padding-bottom: 15px;
     padding-top: 15px;
 }
+
+.senha-container {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+   
+  }
+  
+  .btn-senha {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .normal {
+    background-color: #e23e57;
+    color: white;
+  }
+  
+  .preferencial {
+    background-color: #e23e57;
+    color: white;
+  }
+  
+  .chamar {
+    background-color:#e96a7e;
+    color: white;
+   
+  }
+  
+  .senha-display, .fila-status {
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#e96a7e;
+
+  }
+  h2{
+    color:#e23e57;
+  }
+  
